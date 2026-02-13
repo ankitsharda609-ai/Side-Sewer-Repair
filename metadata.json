@@ -1,0 +1,8 @@
+
+{
+  "name": "Bellevue Side Sewer Pros",
+  "description": "Professional side sewer repair and public connection services in Bellevue, WA, featuring AI-powered utility guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
